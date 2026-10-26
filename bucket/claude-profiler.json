@@ -1,16 +1,16 @@
 {
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "See where the time went in a Claude Code session",
   "homepage": "https://github.com/Softjey/claude-profiler",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Softjey/claude-profiler/releases/download/v0.3.1/claude-profiler-cli-windows-x64.zip",
-      "hash": "13e248b6caf1a7682150d116240974ccfd3637ffda6f806cb484d32b1da9f595"
+      "url": "https://github.com/Softjey/claude-profiler/releases/download/v0.4.0/claude-profiler-cli-windows-x64.zip",
+      "hash": "108efb353200e42069b0b0862a667888bcc2a251f3257bf0230834621bda90a0"
     },
     "arm64": {
-      "url": "https://github.com/Softjey/claude-profiler/releases/download/v0.3.1/claude-profiler-cli-windows-arm64.zip",
-      "hash": "d4141ec68f41e4b2a358c88de32b69f44561d324e7c13a2758f4844a05216f87"
+      "url": "https://github.com/Softjey/claude-profiler/releases/download/v0.4.0/claude-profiler-cli-windows-arm64.zip",
+      "hash": "41f052390f0e837723bbe85d6d6f906ca5af7b60adafbfe72ee97189622a2240"
     }
   },
   "bin": [
